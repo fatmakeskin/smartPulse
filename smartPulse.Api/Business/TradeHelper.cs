@@ -22,8 +22,8 @@ namespace smartPulse.Api.Business
         string responseFromServer;
 
         #endregion
-        #region Methods
 
+        #region Methods
         public string SerializeBody(string data)
         {
             //var dataBody = JsonConvert.DeserializeXmlNode(data);
